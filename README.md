@@ -2,9 +2,11 @@
 
 Created by : Pompy Mandislian
 
-<h3> Documentation : <h3/>
+<h3> Documentation : </h3>
 
-Requariments:
+**Requariments**:
+
+**for Deployment** :
 <p>
   <img align="right" src="Image/aws.png" width="200" height="100" />
   <img align="right" src="Image/docker.jpg" width="200" height="100" />
