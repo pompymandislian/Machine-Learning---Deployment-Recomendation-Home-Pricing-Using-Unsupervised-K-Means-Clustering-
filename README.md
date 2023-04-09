@@ -27,3 +27,13 @@ link for use this model :
 
 <h3> <b> Workflow General <b> </h3>
 <img align="center" src="image_flowchart/worklow general.png" width="700" height="300" />
+  
+<h2> <b> Background Project <b> </h2>
+  
+<p> 
+On a website, Rumahs123 provides home buying or rental services, the prices of houses sold are based on facilities, area, and location. At this time, users are still doing searches manually without providing the features they want to search for, such as how much land they want, facilities, and house prices or mortgage payments. Therefore, so that users can find their desired housing needs more easily, a recommendation system was created for these business needs. This system is based on machine learning with the concept of unsupervised clustering so that it can group the features needed by the user. The making of this system will be directed to the city of Malang by describing it in the Kelurahan, District, and City areas. This system will later be accessible to the public so that it can be used by anyone.
+</p>
+
+<h2> <b> Problem Statement <b> </h2>
+How to make a recommendation system for users?
+- How can a user find out which recommendations are suitable for their needs?    
