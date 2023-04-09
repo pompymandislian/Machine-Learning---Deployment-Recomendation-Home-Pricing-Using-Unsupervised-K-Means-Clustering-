@@ -38,3 +38,5 @@ On a website, Rumahs123 provides home buying or rental services, the prices of h
 How to make a recommendation system for users?
 </li><li> How can a user find out which recommendations are suitable for their needs?    
  <p> How to user can access this system ? </p>
+
+  <h2> Architecture </h2>
