@@ -2,3 +2,7 @@
 
 Created by : Pompy Mandislian
 
+Documentation :
+Requariments:
+I make this project for deployment with FastAPI, Streamlit, Docker, and AWS
+
