@@ -20,4 +20,5 @@ Created by : Pompy Mandislian
   <img align="center" src="Image/docker.jpg" width="200" height="100" />
   <img align="center" src="Image/streamlit.png" width="200" height="100" />
   <img align="center" src="Image/fastapi.png" width="200" height="100" />
+  <img align="center" src="Image/pytest.png" width="200" height="100" />
 </p>
