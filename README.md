@@ -16,9 +16,9 @@ Created by : Pompy Mandislian
 
 **for Deployment** :
 <p>
-  <img align="center" src="Image/aws.png" width="100" height="100" />
-  <img align="center" src="Image/docker.jpg" width="100" height="100" />
-  <img align="center" src="Image/streamlit.png" width="100" height="100" />
-  <img align="center" src="Image/fastapi.png" width="100" height="100" />
-  <img align="center" src="Image/pytest.png" width="100" height="100" />
+  <img align="center" src="Image/aws.png" width="150" height="100" />
+  <img align="center" src="Image/docker.jpg" width="150" height="100" />
+  <img align="center" src="Image/streamlit.png" width="150" height="100" />
+  <img align="center" src="Image/fastapi.png" width="150" height="100" />
+  <img align="center" src="Image/pytest.png" width="150" height="100" />
 </p>
