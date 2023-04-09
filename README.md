@@ -4,7 +4,7 @@ Created by : Pompy Mandislian
 
 <h3> Documentation : </h3>
 
-<h4> **Requariments :** </h4>
+<h4> **Requariments : </h4>
 
 **for Analysis and Machine Learning** :
 <p>
