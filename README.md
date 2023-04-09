@@ -26,4 +26,4 @@ link for use this model :
 </p>
 
 <h3> <b> Workflow General <b> </h3>
-<img align="center" src="image_flowchart/worklow general.png" width="300" height="400" />
+<img align="center" src="image_flowchart/worklow general.png" width="600" height="300" />
