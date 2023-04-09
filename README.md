@@ -4,9 +4,15 @@ Created by : Pompy Mandislian
 
 <h3> Documentation : </h3>
 
-**Requariments**:
-**for Analysis and Machine Learning**
+<h4> **Requariments :** </h4>
 
+**for Analysis and Machine Learning** :
+<p>
+  <img align="right" src="Image/python.png" width="200" height="100" />
+  <img align="right" src="Image/scikit.png" width="200" height="100" />
+  <img align="right" src="Image/seaborn.png" width="200" height="100" />
+  <img align="right" src="Image/matplotlip.png" width="200" height="100" />
+</p>
 
 **for Deployment** :
 <p>
@@ -14,4 +20,4 @@ Created by : Pompy Mandislian
   <img align="right" src="Image/docker.jpg" width="200" height="100" />
   <img align="right" src="Image/streamlit.png" width="200" height="100" />
   <img align="right" src="Image/fastapi.png" width="200" height="100" />
-<p>
+</p>
