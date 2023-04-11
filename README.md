@@ -60,7 +60,6 @@ How to make a recommendation system for users?
 <li> Run docker compose in new images (fill streamlit and fastapi) </li>
 <li> Input data in the streamlit </li>
   
-<p>
-  <h2> Image docker </h2>
-<p> <img src="Image/docker images.jpg" width="700" height="250" /> 
-</p>
+<h2> Image docker </h2>
+<p> <img src="Image/docker images.jpg" width="700" height="250" /> </p>
+
