@@ -67,3 +67,13 @@ How to make a recommendation system for users?
 <p> <img src="Image/streamlit output.jpg" width="750" height="100" /> </p>
 
 <li> Datasheet using feature engineering MINMAX Scaller </li>
+
+<h2> Conclution and Next Improvement </h2>  
+  <li> Using minmax scaller is the best Feauture Engineering for K-means Model in this datasheet </li>
+  <li> Next Project can improvement to server, so that access in public </li>
+  <li> Can improvement about feauture frontend like add identity user and send data inputan to database </li>
+  
+<h2> Referensi </h2>
+  <li> Pacmann Class </li>
+  <li> FastAPi and Streamlit Doc </li>
+     <li>      srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://docs.streamlit.io/)"> </li>
