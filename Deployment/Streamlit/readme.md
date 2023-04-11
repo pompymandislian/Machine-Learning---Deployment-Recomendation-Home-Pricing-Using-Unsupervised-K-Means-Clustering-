@@ -1,2 +1,2 @@
 
-Full Packgae for make frontend with Streamlit
+Full Package for make frontend with Streamlit
