@@ -59,7 +59,7 @@ How to make a recommendation system for users?
 <li> Compose file docker compose >> docker compose up </li>
 <li> Run docker compose in new images (fill streamlit and fastapi) </li>
 <li> Input data in the streamlit </li>
-  
+
 <h2> Image docker </h2>
 <p> <img src="Image/docker images.jpg" width="700" height="250" /> </p>
 <p> <img src="Image/docker container.jpg" width="700" height="350" /> </p>
@@ -69,11 +69,11 @@ How to make a recommendation system for users?
 <li> Datasheet using feature engineering MINMAX Scaller </li>
 
 <h2> Conclution and Next Improvement </h2>  
-  <li> Using minmax scaller is the best Feauture Engineering for K-means Model in this datasheet </li>
-  <li> Next Project can improvement to server, so that access in public </li>
-  <li> Can improvement about feauture frontend like add identity user and send data inputan to database </li>
-  
+<li> Using minmax scaller is the best Feauture Engineering for K-means Model in this datasheet </li>
+<li> Next Project can improvement to server, so that access in public </li>
+<li> Can improvement about feauture frontend like add identity user and send data inputan to database </li>
+
 <h2> Referensi </h2>
-  <li> Pacmann Class </li>
-  <li> FastAPi and Streamlit Doc </li>
-     <li>      srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://docs.streamlit.io/)"> </li>
+<li> Pacmann Class </li>
+<li> FastAPi, Docker and Streamlit Doc </li>
+<li> Youtube Deployment FastAPI and Streamlit </li>
