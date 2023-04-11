@@ -49,7 +49,7 @@ How to make a recommendation system for users?
   
   <h3> Format Massage Prediction FastAPI </h3>
    <p> {"message":"This is the homepage of the API "} </p>
-  <p> <img align="left" src="Image/fastapi input.jpg" width="500" height="250" /> </p>
+  <p> <img src="Image/fastapi input.jpg" width="500" height="250" /> </p>
   
   <p> 
     Output of Prediction is {"prediction Cluster is": 1} 
