@@ -42,3 +42,4 @@ How to make a recommendation system for users?
   <h2> Architecture </h2>
   <li> Block Diagram Data Preaperation </li>
   <img align="center" src="image_flowchart/Block Diagram Data Preposesing.png" width="700" height="250" />
+  <li> Block Diagram Data Prepocessing and Feature Engineering </li>
