@@ -40,5 +40,5 @@ How to make a recommendation system for users?
  <p> How to user can access this system ? </p>
 
   <h2> Architecture </h2>
-  <li> Block Diagram Data Preperation </li>
+  <li> Block Diagram Data Preaperation </li>
   <img align="center" src="image_flowchart/Block Diagram Data Preposesing.png" width="700" height="250" />
