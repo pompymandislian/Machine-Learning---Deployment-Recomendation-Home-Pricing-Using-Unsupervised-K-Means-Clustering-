@@ -61,6 +61,6 @@ How to make a recommendation system for users?
 <li> Input data in the streamlit </li>
   
 <p>
-  Image docker image 
+  <h2> Image docker </h2>
 <p> <img src="Image/docker images.jpg" width="700" height="250" /> 
 </p>
