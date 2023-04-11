@@ -48,4 +48,4 @@ How to make a recommendation system for users?
   <img align="center" src="image_flowchart/Block Diagram Model Unsupervised.png" width="700" height="250" />
   <h3> Format Massage Prediction FastAPI </h3>
   {"message":"This is the homepage of the API "}
-  
+   <img align="center" src="image/Block Diagram Model Unsupervised.png" width="700" height="250" />
