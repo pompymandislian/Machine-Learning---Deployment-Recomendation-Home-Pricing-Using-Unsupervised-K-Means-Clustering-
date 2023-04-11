@@ -66,4 +66,4 @@ How to make a recommendation system for users?
 <li> Result in streamlit </li>
 <p> <img src="Image/streamlit output.jpg" width="750" height="100" /> </p>
 
-<li> Datasheet I used feature engineering MINMAX Scaller </li>
+<li> Datasheet using feature engineering MINMAX Scaller </li>
