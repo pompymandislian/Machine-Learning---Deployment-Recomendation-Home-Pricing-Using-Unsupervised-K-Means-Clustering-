@@ -2,8 +2,6 @@
 
 Created by : Pompy Mandislian
 
-link for use this model :
-
 <h3> Documentation : </h3>
 
 <h4> <b> Requariments : </b> </h4>
