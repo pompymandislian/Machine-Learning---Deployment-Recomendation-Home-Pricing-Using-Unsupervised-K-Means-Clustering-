@@ -53,8 +53,8 @@ How to make a recommendation system for users?
 <p> Output of Prediction is {"prediction Cluster is": 1} </p>
 
 <h3> How to Run Model in Localhost </h3>
-<li> Import/built file Streamlit and FastAPI to Docker Image >> docker built -t <name image> . </li> 
-<li> Run Container Streamlit and FastAPI >> docker run -p <name images in docker> </li>
+<li> Import/built file Streamlit and FastAPI to Docker Image >> docker built -t (name image) . </li> 
+<li> Run Container Streamlit and FastAPI >> docker run -p (name images in docker) </li>
 <li> Stop Image and container streamlit and FastAPI in the docker </li>
 <li> Compose file docker compose >> docker compose up </li>
 <li> Run docker compose in new images (fill streamlit and fastapi) </li>
