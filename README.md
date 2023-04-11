@@ -63,3 +63,5 @@ How to make a recommendation system for users?
 <h2> Image docker </h2>
 <p> <img src="Image/docker images.jpg" width="700" height="250" /> </p>
 <p> <img src="Image/docker container.jpg" width="700" height="350" /> </p>
+<li> Resul in streamlit </li>
+<p> <img src="Image/streamlit output.jpg" width="700" height="350" /> </p>
