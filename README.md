@@ -65,3 +65,5 @@ How to make a recommendation system for users?
 <p> <img src="Image/docker container.jpg" width="700" height="350" /> </p>
 <li> Result in streamlit </li>
 <p> <img src="Image/streamlit output.jpg" width="750" height="100" /> </p>
+
+<li> Datasheet I used feature engineering MINMAX Scaller </li>
