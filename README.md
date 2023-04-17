@@ -39,7 +39,7 @@ How to make a recommendation system for users?
 
 <h2> Architecture </h2>
 <li> Block Diagram Data Preaperation - Pipeline </li>
-<img align="center" src="image_flowchart/Block Diagram Data Prep and Feature Engineering.png" width="700" height="250" />
+<img align="center" src="image_flowchart/data preaperation-pipeline.png" width="700" height="250" />
 <li> Block Diagram Data Prepocessing and Feature Engineering </li>
 <img align="center" src="image_flowchart/Block Diagram Data Prep and Feature Engineering.png" width="700" height="250" />
 <li> Block Diagram Modeling Unsupervised </li>
