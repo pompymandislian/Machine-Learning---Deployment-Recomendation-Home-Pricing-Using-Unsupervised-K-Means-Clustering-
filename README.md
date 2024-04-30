@@ -72,6 +72,5 @@ How to make a recommendation system for users?
 <li> Can improvement about feauture frontend like add identity user and send data inputan to database </li>
 
 <h2> Referensi </h2>
-<li> Pacmann Class </li>
 <li> FastAPi, Docker and Streamlit Doc </li>
 <li> Youtube Deployment FastAPI and Streamlit </li>
